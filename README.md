@@ -4,7 +4,7 @@
 ## Projects I am working on:
 <table style="text-align:center;" border="0">
  <tr>
-    <td><a href="https://www.waterbird.uk"><img src="https://github.com/shivanishawr/shivanishawr/blob/main/waterbird-logo.png"/></a></td>
-    <td><a href="https://www.sciencebulb.com"><img src="https://github.com/shivanishawr/shivanishawr/blob/main/science-bulb-logo.png"/></a></td>
+    <td><a href="https://www.waterbird.uk"><img src="https://github.com/shivanishawr/shivanishawr/blob/main/waterbird-github.png"/></a></td>
+    <td><a href="https://www.sciencebulb.com"><img src="https://github.com/shivanishawr/shivanishawr/blob/main/sci-bulb-github.png"/></a></td>
  </tr>
 </table>
