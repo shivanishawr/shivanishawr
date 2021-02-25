@@ -1,10 +1,10 @@
-<!-- Thanks for checking out my Github README profile page! -->
+### Hi, I'm Shivani 👋
 
-[![Header](https://github.com/shivanishawr/shivanishawr/blob/main/github-header.png "Header")](https://www.waterbird.uk/)
-## Projects I am working on:
-<table style="text-align:center;" border="0">
- <tr>
-    <td><a href="https://github.com/waterbirduk"><img src="https://github.com/shivanishawr/shivanishawr/blob/main/waterbird-github.gif"/></a></td>
-    <td><a href="https://github.com/scibulb"><img src="https://github.com/shivanishawr/shivanishawr/blob/main/sciencebulb-github.gif"/></a></td>
- </tr>
-</table>
+I’m an amateur game developer and writer. I'm building [Science Bulb](sciencebulb.com), a platform exploring science through gaming.
+
+- 🧱  I’m currently working on [The Roller Coaster Extravaganza](https://twitter.com/shivanishawr/status/1363108641994334208/photo/1), a Unity LEGO microgame.
+- 🤓  I’m currently learning Unity.
+- 💬  Ask me about game development, C#, science promotion.
+- 📫  How to reach me: shivanishawr@gmail.com or Twitter [@shivanishawr](twitter.com/shivanishawr)
+- 😄  Pronouns: she/her
+- 🐢  Fun fact: I love nature and I dream of visiting every nature reserve in the world!
