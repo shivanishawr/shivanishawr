@@ -1,6 +1,6 @@
 ### Hi, I'm Shivani 👋
 
-I’m an amateur game developer and writer. I'm building [Science Bulb](https://www.sciencebulb.com/), a platform exploring science through gaming.
+I’m an amateur game developer and blogger.
 
 - 🧱  I’m currently working on [The Roller Coaster Extravaganza](https://twitter.com/shivanishawr/status/1363108641994334208/photo/1), a Unity LEGO microgame.
 - 🤓  I’m currently learning Unity.
